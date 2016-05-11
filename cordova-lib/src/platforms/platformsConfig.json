@@ -92,5 +92,15 @@
         "url": "https://git-wip-us.apache.org/repos/asf?p=cordova-browser.git",
         "version": "~4.1.0",
         "deprecated": false
+    },
+    "xamarin-ios": {
+        "url": "https://github.com/Zuehlke/cordova-xamarin-ios",
+        "version": "~1.0.0",
+        "deprecated": false
+    },
+    "xamarin-android": {
+        "url": "https://github.com/Zuehlke/cordova-xamarin-android",
+        "version": "~1.0.0",
+        "deprecated": false
     }
 }
